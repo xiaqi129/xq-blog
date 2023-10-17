@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( http://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="640.224475084"
+    height="149.987513564"
+    viewBox="0, 0, 640.224475084, 149.987513564"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_281646AF"/>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <g
+          id="4516338E">
+         <path
+             id="6BFA486E_join"
+             style="fill:#0C1566;stroke:#1D1357;stroke-linecap:round;stroke-linejoin:round"
+             d="M97.7451422083,126.957688169 L104.660660894,146.08426861 L105.098924093,146.962114437 C142.028989536,129.873357171 158.113547831,86.0824490743 141.024790565,49.1523836315 C123.936033299,12.2223181887 80.1451252028,-3.862240106226 43.21505976,13.2265171598
+C6.284994317226,30.3152744257 -9.799563977713,74.1061825222 7.289193288268,111.036247965 C14.3013999833,126.190144068 26.2529702421,138.512822945 41.1854268436,145.98499463 L41.840214901,145.77947068 L50.2736584009,126.166056568
+L49.4766467584,125.477631206 C40.9994379584,120.651001098 34.0808586357,113.498806642 29.5383030675,104.866042534 C16.3960960574,79.890327592 25.9890496304,48.9896464342 50.9647645726,35.8474394241 C75.9404795149,22.705232414 106.841160673,32.298185987 119.983367683,57.2739009292
+C133.125574693,82.2496158714 123.53262112,113.150297029 98.5569061777,126.292504039"/>
+         <path
+             style="fill:#F5D448;stroke:#F5D448;stroke-linecap:round;stroke-linejoin:round"
+             id="D7F3027E"
+             d="M73.1187960301,70.367669421 C66.5684602604,95.9145708796 60.0181244906,121.461472338 53.4677887209,147.008373797 C66.4252820742,150.330731004 80.013591594,150.313627049 92.9626800277,146.958660558 C86.3480520285,121.428330179 79.7334240293,95.8979998 73.1187960301,70.367669421
+z"/>
+      </g>
+      <text
+          id="93F5C1CE"
+          style="fill:#1B1255;stroke:none"
+          font-family="Xingkai SC"
+          font-size="64"
+          font-weight="bold"
+          font-style="normal"
+          transform="matrix(1.654642889976,0,0,1.654642889976,-118.979941658,0)">
+         <tspan x="186.747855937" y="68">小七同学</tspan>
+      </text>
+   </g>
+</svg>
